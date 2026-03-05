@@ -1,3 +1,4 @@
+# [deprecated]
 # Description
 
 SINOVA <a href="https://docs.google.com/document/d/1c39vzhs7fJtoeJLN7nLjZozOl_fCnQeRd3-O1Z3UAIA/edit#heading=h.6b2ayq5yibqs">Backend Test Assignment</a>. Feel free to change `.env` file.
